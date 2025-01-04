@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "@types/node": "^22.7.9",
     "tsx": "^4.19.1",
